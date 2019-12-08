@@ -1,0 +1,2 @@
+* About
+Bunch of scripts I am writing while learning Haskell
