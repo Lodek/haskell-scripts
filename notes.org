@@ -1,0 +1,1 @@
+* monoids: associative binary functions that have a value which works like an identity value
